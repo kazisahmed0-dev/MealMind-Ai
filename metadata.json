@@ -1,0 +1,6 @@
+{
+  "name": "MealMind AI",
+  "description": "Your Intelligent Food & Nutrition Assistant with food photo vision analysis and per-100g database calculations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
